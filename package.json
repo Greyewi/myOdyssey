@@ -7,7 +7,7 @@
     "web3": "^4.16.0"
   },
   "type": "module",
-  "main": "./src/index.js",
+  "main": "src1/index.js",
   "typings": "./src/index.d.ts",
   "private": true,
   "devDependencies": {
